@@ -1,5 +1,5 @@
 {
-  "name": "svelte-typescript-tailwind-snowpack",
+  "name": "stts",
   "version": "1.0.0",
   "description": "Svelte/Typescript/Tailwind/Snowpack template",
   "main": "index.js",
