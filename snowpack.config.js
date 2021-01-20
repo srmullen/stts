@@ -13,7 +13,7 @@ module.exports = {
     "packageLookupFields": ["svelte", "module", "main"]
   },
   devOptions: {
-    port: 3434
+    port: 5000
   },
   buildOptions: {
     /* ... */
