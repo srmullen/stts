@@ -6,7 +6,7 @@
 
 <div class="bg-gray-50 h-screen">
   <div class="mx-auto max-w-3xl text-gray-800 py-8 px-4">
-    <h1 class="text-center text-xl sm:text-4xl font-bold mb-8">Svelte / Typescript / Tailwind / Snowpack</h1>
+    <h1 class="text-center text-xl sm:text-4xl font-bold mb-8">Svelte / Typescript / Tailwind / Snowpack / Electron</h1>
     <p class="mb-4">
       A template for a fun, fast development experience!
     </p>
