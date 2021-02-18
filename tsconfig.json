@@ -8,6 +8,12 @@
     "node_modules"
   ],
   "compilerOptions": {
+    "lib": [
+      "DOM",
+      "ES2015",
+      "ES2016",
+      "ES6"
+    ],
     "module": "esnext",
     "target": "esnext",
     "typeRoots": [
