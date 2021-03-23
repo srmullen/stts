@@ -25,6 +25,7 @@
     "@snowpack/plugin-svelte": "^3.5.2",
     "@snowpack/plugin-typescript": "^1.2.1",
     "@snowpack/plugin-webpack": "^2.3.0",
+    "@testing-library/svelte": "^3.0.3",
     "@tsconfig/svelte": "^1.0.10",
     "@types/jest": "^26.0.20",
     "@types/snowpack-env": "^2.3.3",
