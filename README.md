@@ -1,3 +1,6 @@
+[![MadeWithSvelte.com shield](https://madewithsvelte.com/storage/repo-shields/2959-shield.svg)](https://madewithsvelte.com/p/stts/shield-link)
+
+
 Svelte / Typescript / Tailwind / Snowpack Template
 ==================================================
 
