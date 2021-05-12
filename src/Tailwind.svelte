@@ -1,5 +1,5 @@
 <style global>
-  /* prgecss start ignore */
+  /* purgecss start ignore */
   @tailwind base;
   @tailwind components;
   /* purgecss end ignore */
