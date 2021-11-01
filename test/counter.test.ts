@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 import Counter from '../src/components/Counter.svelte';
 import { render, fireEvent } from '@testing-library/svelte';
 
